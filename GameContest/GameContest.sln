@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameContest", "GameContest.csproj", "{A26F6C64-FEC9-DDA4-3558-F9AA64018206}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameContest.Editor", "GameContest.Editor.csproj", "{043F5B47-EB52-0F1B-2588-9C83B2B8EF40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A26F6C64-FEC9-DDA4-3558-F9AA64018206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A26F6C64-FEC9-DDA4-3558-F9AA64018206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A26F6C64-FEC9-DDA4-3558-F9AA64018206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A26F6C64-FEC9-DDA4-3558-F9AA64018206}.Release|Any CPU.Build.0 = Release|Any CPU
+		{043F5B47-EB52-0F1B-2588-9C83B2B8EF40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{043F5B47-EB52-0F1B-2588-9C83B2B8EF40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{043F5B47-EB52-0F1B-2588-9C83B2B8EF40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{043F5B47-EB52-0F1B-2588-9C83B2B8EF40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
